@@ -14,7 +14,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 @Service
 
-//all the public logic is done here
+//all the  logic is done here
 public class BookServiceImpl implements BookService {
     @Autowired
     private BookRepository bookRepository;
